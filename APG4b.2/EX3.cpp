@@ -5,3 +5,4 @@ int main()
 {
   cout << 0.5 * 100 * (1 + 100) << endl;
 }
+// testだよ
