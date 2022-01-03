@@ -15,7 +15,4 @@ int main()
   reverse(s_2.begin(), s_2.end());
 
   cout << s_1 << s_2 << s_3 << endl;
-  // cout << "s1" << s_1 << endl;
-  // cout << "s2" << s_2 << endl;
-  // cout << "s3" << s_3 << endl;
 }
